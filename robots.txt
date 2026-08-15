@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-fhpgyh.pulaucuan.sbs/sitemap.xml
